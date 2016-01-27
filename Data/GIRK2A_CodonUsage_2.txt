@@ -1,0 +1,24 @@
+ A   19     GCA   5   0.263     GCC   8   0.421     GCG   4   0.211     GCT   2   0.105 
+ C    6     TGC   4   0.667     TGT   2   0.333 
+ D   21     GAC  15   0.714     GAT   6   0.286 
+ E   38     GAA  15   0.395     GAG  23   0.605 
+ F   18     TTC  10   0.556     TTT   8   0.444 
+ G   21     GGA   4   0.190     GGC   3   0.143     GGG  12   0.571     GGT   2   0.095 
+ H   10     CAC   7   0.700     CAT   3   0.300 
+ I   31     ATA   3   0.097     ATC  17   0.548     ATT  11   0.355 
+ K   22     AAA  10   0.455     AAG  12   0.545 
+ L   41     CTA   3   0.073     CTC   5   0.122     CTG  18   0.439     CTT   2   0.049     TTA   3   0.073     TTG  10   0.244 
+ M   13     ATG  13   1.000 
+ N   18     AAC  14   0.778     AAT   4   0.222 
+ P   16     CCA   3   0.188     CCC   4   0.250     CCG   3   0.188     CCT   6   0.375 
+ Q   13     CAA   4   0.308     CAG   9   0.692 
+ R   22     AGA   3   0.136     AGG   8   0.364     CGA   3   0.136     CGC   0   0.000     CGG   8   0.364     CGT   0   0.000 
+ S   32     AGC   7   0.219     AGT   4   0.125     TCA   2   0.063     TCC  15   0.469     TCG   1   0.031     TCT   3   0.094 
+ T   31     ACA   7   0.226     ACC  12   0.387     ACG   7   0.226     ACT   5   0.161 
+ V   31     GTA   2   0.065     GTC  10   0.323     GTG  17   0.548     GTT   2   0.065 
+ W    8     TGG   8   1.000 
+ Y   14     TAC  12   0.857     TAT   2   0.143 
+ #    0     TAA   0  -1.#IO 
+ @    0     TAG   0  -1.#IO 
+ &    1     TGA   1   1.000 
+ X    0     XXX   0  -1.#IO 

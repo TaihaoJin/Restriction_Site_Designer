@@ -1,0 +1,40 @@
+LOCUS       NO_LOCUS     1503 bp ds-DNA             SYN       30-JAN-1998
+DEFINITION  Not definied.
+ACCESSION   X00000
+KEYWORDS    .
+SOURCE      Not Specified.
+  ORGANISM  Not Specified.
+REFERENCE   Not Specified.
+  AUTHORS   Not Specified.
+  TITLE     Not Specified.
+  JOURNAL   Not Specified.
+  STANDARD  Not Specified.
+BASE COUNT      394 a    410 c    350 g    349 t
+ORIGIN
+        1 atgtctgcac tccgaaggaa atttggggac gattatcagg tagtgaccac atcgtccagc
+       61 ggctcgggct tgcagcccca ggggccaggc caggaccctc agcagcagct tgtgcccaag
+      121 aagaagcggc agcggttcgt ggacaagaac ggccggtgca atgtacagca cggcaacctg
+      181 ggcagcgaga caagccgcta cctctcggac ctcttcacca cgctggtgga cctcaagtgg
+      241 cgctggaacc tcttcatctt cattctcacc tacaccgtgg cctggctttt catggcgtcc
+      301 atgtggtggg tgatcgccta cactcggggc gacctgaaca aagcccacgt cggtaactac
+      361 acgccttgcg tggccaatgt ctataacttc ccttctgcct tcctcttctt catcgagacg
+      421 gaggccacca tcggctatgg ctaccgatac atcacagaca agtgccccga gggcatcatc
+      481 ctcttcctct tccagtccat cctgggctcc atcgtggacg ccttcctcat cggctgcatg
+      541 ttcatcaaga tgtcccagcc caagaagcgc gccgagaccc tcatgttcag cgagcacgcg
+      601 gtgatctcca tgagggacgg aaaactcacg cttatgttcc gggtgggcaa cctgcgcaac
+      661 agccacatgg tctccgcgca gattcgctgc aagctgctca aatctcggca gacacctgag
+      721 ggtgagttcc ttccccttga ccaacttgaa ctggatgtag gttttagtac aggggcagat
+      781 caactttttc ttgtgtcccc cctcacaatt tgccacgtga tcgatgccaa aagccccttt
+      841 tatgacctat cccagcgaag catgcaaact gaacagttcg agattgtcgt catcctagaa
+      901 ggcattgtgg aaacaactgg gatgacttgt caagctcgaa catcatatac tgaagatgaa
+      961 gttctttggg gtcatcgttt ttttcctgta atttccttag aagagggatt ctttaaagtt
+     1021 gattattccc agttccatgc aacatttgaa gtccccaccc caccttacag tgtgaaagag
+     1081 caggaggaaa tgcttctcat gtcgtccccc ttaatagcac cagccataac taacagcaaa
+     1141 gaaagacata attctgtgga atgcttagat ggactagatg atattactac aaaactacca
+     1201 tctaagctgc agaaaattac tggaagagaa gactttccca aaaaactctt gaggatgagt
+     1261 tctacaactt cagaaaaagc ctacagcttg ggagacttgc ccatgaaact tcaacgaata
+     1321 agttcagttc cgggcaactc agaagaaaaa ctggtatcta aaaccaccaa gatgttatct
+     1381 gatcccatga gccagtctgt ggctgatttg ccaccaaagc ttcaaaagat ggctggagga
+     1441 gcagctagga tggaagggaa ccttccagcc aaattaagaa aaatgaactc tgatcgcttc
+     1501 aca
+//

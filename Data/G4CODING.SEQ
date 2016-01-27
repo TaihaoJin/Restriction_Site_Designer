@@ -1,0 +1,35 @@
+LOCUS       NO_LOCUS     1257 bp ds-DNA             SYN       30-JAN-1998
+DEFINITION  Not definied.
+ACCESSION   X00000
+KEYWORDS    .
+SOURCE      Not Specified.
+  ORGANISM  Not Specified.
+REFERENCE   Not Specified.
+  AUTHORS   Not Specified.
+  TITLE     Not Specified.
+  JOURNAL   Not Specified.
+  STANDARD  Not Specified.
+BASE COUNT      284 a    358 c    358 g    257 t
+ORIGIN
+        1 atggctggcg attctaggaa tgccatgaac caggacatgg agattggagt cactccctgg
+       61 gaccccaaga agattccaaa acaggcccgc gattatgtcc ccattgccac agaccgtacg
+      121 cgcctgctgg ccgagggcaa gaagccacgc cagcgctaca tggagaagag cggcaagtgc
+      181 aacgtgcacc acggcaacgt ccaggagacc taccggtacc tgagtgacct cttcaccacc
+      241 ctggtggacc tcaagtggcg cttcaacttg ctcgtcttca ccatggttta cactgtcacc
+      301 tggctgttct tcggcttcat ttggtggctc attgcttata tccggggtga cctggaccat
+      361 gttggcgacc aagagtggat tccttgtgtt gaaaacctca gtggcttcgt gtccgctttc
+      421 ctgttctcca ttgagaccga aacaaccatt gggtatggct tccgagtcat cacagagaag
+      481 tgtccagagg ggattatact cctcttggtc caggccatcc tgggctccat cgtcaatgcc
+      541 ttcatggtgg ggtgcatgtt tgtcaagatc agccagccca agaagagagc ggagaccctc
+      601 atgttttcca acaacgcagt catctccatg cgggacgaga agctgtgcct catgttccgg
+      661 gtgggcgacc tccgcaactc ccacatcgtg gaggcctcca tccgggccaa gctcatcaag
+      721 tcccggcaga ccaaagaggg ggagttcatc cccctgaacc agacagacat caacgtgggc
+      781 tttgacacgg gcgacgaccg cctcttcctg gtgtctcctc tgatcatctc ccacgagatc
+      841 aacgagaaga gccctttctg ggagatgtct caggctcagc tgcatcagga agagtttgaa
+      901 gttgtggtca ttctagaagg gatggtggaa gccacaggca tgacctgcca agcccggagc
+      961 tcctacatgg atacagaggt gctctggggc caccgattca caccagtcct caccttggaa
+     1021 aagggcttct atgaggtgga ctacaacacc ttccatgata cctatgagac caacacaccc
+     1081 agctgctgtg ccaaggagct ggcagaaatg aagagggaag gccggctcct ccagtacctc
+     1141 cccagccccc cactgctggg gggctgtgct gaggcagggc tggatgcaga ggctgagcag
+     1201 aatgaagaag atgagcccaa ggggctgggt gggtccaggg aggccagggg ctcggtg
+//
